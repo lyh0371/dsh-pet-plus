@@ -1,0 +1,24 @@
+﻿dsh-pet-plus — third-party notices
+==================================
+
+This repository is a derivative work. It contains code and assets from:
+
+1) PC2005-cloud/dsh-pet  (MIT)
+   https://github.com/PC2005-cloud/dsh-pet
+   - base implementation: pet runtime, animations/assets, physics, voice,
+     balance, todo, desktop (Electron) mode
+   - pet character art: community derivative work "大肥鱼 / 鲸鱼娘",
+     licensed CC BY-NC-SA 4.0 (NON-COMMERCIAL)
+
+2) zi-O1/dsh-pet-to-family  (MIT)
+   https://github.com/zi-O1/dsh-pet-to-family
+   - feature port: soul card / long-term memory / relationship events /
+     reflection, native WeChat (iLink) & QQ bot integration and their
+     settings UI
+
+3) lyh0371/dsh-pet-plus  (MIT)
+   - this fork: merge, wiring, config plumbing, soul & IM routes,
+     settings cards, packaging
+
+MIT license texts of the upstream projects apply to their respective code.
+The character artwork remains CC BY-NC-SA 4.0: commercial use is prohibited.
